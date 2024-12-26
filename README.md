@@ -1,2 +1,2 @@
-# pych_top.id
+# pych-top-id
 papua youth creative hub
